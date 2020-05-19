@@ -13,7 +13,7 @@ is compared based on four different parameters: Recall, F1-Score, Ac-
 curacy, and Precision. A dataset of credit cards is used to evaluate the
 efficiency of the different ML techniques, purely based on the filter features selection method. 
 
-The outcomes of this experiment show that the accuracy and other parameters of XGBoost are the highest. But when performed the Nemenyi test it was found that Random Forest had the least average rank.
+The outcomes of this experiment show that the accuracy and other parameters of **XGBoost** are the highest. But when performed the **Nemenyi test** it was found that **Random Forest** had the least average rank, thus revealing that Random Forest performed the best on average.
 
 ## Lessons Learnt
 It was a fun toy project to get hands-on-experience with the data mining concepts taught in the class. And, gained experience using one of the most popular machine learning libraries scikit-learn to solve real problems.
