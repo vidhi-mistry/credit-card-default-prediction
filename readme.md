@@ -5,7 +5,7 @@ Credit Card fraud is the most pressing issue which has to be dealt with by card 
 **Dataset :** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
 
 
-The problem under consideration is addressed using the feature selection methods and re-sampling like oversampling techniques. It uses various ML techniques such as ** Dummy
+The problem under consideration is addressed using the feature selection methods and re-sampling like oversampling techniques. It uses various ML techniques such as **Dummy
 classifier (baseline), Decision Tree, Logistic Regression, K-Neighbors, Random For-
 est, XGBoost, LightGBM, Neural Networks and Gaussian Naive Bayes**
 to detect frauds. The performance of each of the methods
