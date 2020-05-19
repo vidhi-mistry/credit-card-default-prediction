@@ -21,6 +21,5 @@ It was a fun toy project to get hands-on-experience with the data mining concept
 
 
 ## Coursework
-This project was for fulfillment of the one of the course requirements for the course:
- Course - **CSI 5387 : Data Mining**
+This project was for fulfillment of the one of the course requirements for the course: **CSI 5387 : Data Mining**
 
